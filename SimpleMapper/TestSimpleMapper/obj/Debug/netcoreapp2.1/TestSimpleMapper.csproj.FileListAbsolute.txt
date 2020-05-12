@@ -1,0 +1,14 @@
+E:\GitWorkSpan\SimpleMapper\SimpleMapper\TestSimpleMapper\bin\Debug\netcoreapp2.1\TestSimpleMapper.deps.json
+E:\GitWorkSpan\SimpleMapper\SimpleMapper\TestSimpleMapper\bin\Debug\netcoreapp2.1\TestSimpleMapper.runtimeconfig.json
+E:\GitWorkSpan\SimpleMapper\SimpleMapper\TestSimpleMapper\bin\Debug\netcoreapp2.1\TestSimpleMapper.runtimeconfig.dev.json
+E:\GitWorkSpan\SimpleMapper\SimpleMapper\TestSimpleMapper\bin\Debug\netcoreapp2.1\TestSimpleMapper.dll
+E:\GitWorkSpan\SimpleMapper\SimpleMapper\TestSimpleMapper\bin\Debug\netcoreapp2.1\TestSimpleMapper.pdb
+E:\GitWorkSpan\SimpleMapper\SimpleMapper\TestSimpleMapper\bin\Debug\netcoreapp2.1\SimpleMapper.dll
+E:\GitWorkSpan\SimpleMapper\SimpleMapper\TestSimpleMapper\bin\Debug\netcoreapp2.1\SimpleMapper.pdb
+E:\GitWorkSpan\SimpleMapper\SimpleMapper\TestSimpleMapper\obj\Debug\netcoreapp2.1\TestSimpleMapper.csprojAssemblyReference.cache
+E:\GitWorkSpan\SimpleMapper\SimpleMapper\TestSimpleMapper\obj\Debug\netcoreapp2.1\TestSimpleMapper.csproj.CoreCompileInputs.cache
+E:\GitWorkSpan\SimpleMapper\SimpleMapper\TestSimpleMapper\obj\Debug\netcoreapp2.1\TestSimpleMapper.AssemblyInfoInputs.cache
+E:\GitWorkSpan\SimpleMapper\SimpleMapper\TestSimpleMapper\obj\Debug\netcoreapp2.1\TestSimpleMapper.AssemblyInfo.cs
+E:\GitWorkSpan\SimpleMapper\SimpleMapper\TestSimpleMapper\obj\Debug\netcoreapp2.1\TestSimpleMapper.csproj.CopyComplete
+E:\GitWorkSpan\SimpleMapper\SimpleMapper\TestSimpleMapper\obj\Debug\netcoreapp2.1\TestSimpleMapper.dll
+E:\GitWorkSpan\SimpleMapper\SimpleMapper\TestSimpleMapper\obj\Debug\netcoreapp2.1\TestSimpleMapper.pdb

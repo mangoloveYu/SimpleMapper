@@ -1,0 +1,8 @@
+E:\GitWorkSpan\SimpleMapper\SimpleMapper\SimpleMapper\bin\Debug\netcoreapp2.1\SimpleMapper.deps.json
+E:\GitWorkSpan\SimpleMapper\SimpleMapper\SimpleMapper\bin\Debug\netcoreapp2.1\SimpleMapper.dll
+E:\GitWorkSpan\SimpleMapper\SimpleMapper\SimpleMapper\bin\Debug\netcoreapp2.1\SimpleMapper.pdb
+E:\GitWorkSpan\SimpleMapper\SimpleMapper\SimpleMapper\obj\Debug\netcoreapp2.1\SimpleMapper.csproj.CoreCompileInputs.cache
+E:\GitWorkSpan\SimpleMapper\SimpleMapper\SimpleMapper\obj\Debug\netcoreapp2.1\SimpleMapper.AssemblyInfoInputs.cache
+E:\GitWorkSpan\SimpleMapper\SimpleMapper\SimpleMapper\obj\Debug\netcoreapp2.1\SimpleMapper.AssemblyInfo.cs
+E:\GitWorkSpan\SimpleMapper\SimpleMapper\SimpleMapper\obj\Debug\netcoreapp2.1\SimpleMapper.dll
+E:\GitWorkSpan\SimpleMapper\SimpleMapper\SimpleMapper\obj\Debug\netcoreapp2.1\SimpleMapper.pdb
