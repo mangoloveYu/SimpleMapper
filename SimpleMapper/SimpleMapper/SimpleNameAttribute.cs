@@ -4,7 +4,7 @@ namespace SimpleMapper
 {
     /// <summary>
     /// SimpleNameAttribute
-    /// <author>mango</author>>
+    /// <author>mango</author>
     /// </summary>
     public class SimpleNameAttribute : Attribute
     {
